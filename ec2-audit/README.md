@@ -35,3 +35,9 @@ A lightweight CLI utility to **audit EC2 instances** running in your AWS account
   aws configure
 
 Final result  [output](./output.png)
+
+## Installation
+    wget https://github.com/sanjeev275/ec2-audit-deb-package/releases/download/v1.0.0/my-ec2-audit-package.deb
+    sudo dpkg -i ec2-audit_1.0.0_all.deb
+
+    
