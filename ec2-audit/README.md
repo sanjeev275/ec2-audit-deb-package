@@ -34,4 +34,4 @@ A lightweight CLI utility to **audit EC2 instances** running in your AWS account
   sudo apt install awscli jq -y
   aws configure
 
-Final result  [output](./ec2-audit/)
+Final result  [output](./)
