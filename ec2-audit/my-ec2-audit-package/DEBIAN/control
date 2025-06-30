@@ -1,0 +1,8 @@
+Package: ec2-audit
+Version: 1.0.0
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: Your Name <you@example.com>
+Description: EC2 Audit CLI Tool
+ A Bash-based EC2 audit utility that lists and optionally stops AWS EC2 instances running over a defined uptime threshold.
